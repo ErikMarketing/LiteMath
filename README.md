@@ -1,11 +1,11 @@
 # 🧮 Lite Math
-> Streamline the way you use the RankMath SEO plugin, with this external plugin you can remove uncessecary parts of your workflow by focusing on essential metrics.
+> Streamline the way you use the RankMath SEO plugin, with this external plugin you can remove tests that fill no function in your workflow and focus on vital metrics.
 
 ## ⚠️ IMPORTANT DISCLAIMER
-This plugin is not affiliated with RankMath SEO or its parent company. It is an independent, third-party tool that utilizes RankMath's publicly documented hooks and filters. RankMath® is a registered trademark of its respective owner.
+This plugin is not affiliated with RankMath SEO or its parent company. It is an independent, third-party tool that utilises RankMath's publicly documented hooks and filters. RankMath® is a registered trademark of its respective owner.
 
 ## Overview
-Lightweight WordPress plugin that modifies RankMath's scoring system to prioritize core SEO elements. Remove auxiliary tests and focus on what truly matters for your content optimization process. Perfect for content teams that want a simplified, more focused SEO workflow.
+Lightweight WordPress plugin that modifies RankMath's scoring system to prioritise core SEO elements. Remove auxiliary tests and focus on what truly matters for your content optimization process. Perfect for content teams that want a simplified, more focused SEO workflow.
 
 ## 🎯 Features
 * Removes non-essential SEO tests
