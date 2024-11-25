@@ -67,12 +67,9 @@ Removes auxiliary tests like:
 No configuration needed - works instantly upon activation.
 
 ## 🎯 When to Use
-* Content-heavy websites
-* Editorial teams
 * Client websites
 * When you need focused SEO metrics
-* To simplify content creation
-* To speed up content workflow
+* When the only limited tests are needed
 
 ## 🔒 Technical Details
 * Filters RankMath SEO tests
